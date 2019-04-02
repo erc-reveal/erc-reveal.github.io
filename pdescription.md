@@ -18,4 +18,4 @@ This research is groundbreaking in three ways:
 
 In this respect, the project focuses on standardization in key areas of economic activity - financial services and goods & manufacturing.
 
-REVEAL is carried out by the Principal Investigator, [Prof. Panos Delimatsis] (https://research.tilburguniversity.edu/en/persons/panagiotis-delimatsis), Assistant Professors [Dr. Enrico Partiti] (https://research.tilburguniversity.edu/en/persons/enrico-partiti), [Dr. Stéphanie Bijlmakers] (https://research.tilburguniversity.edu/en/persons/stephanie-bijlmakers), and [Dr. Konrad Borowicz] (https://research.tilburguniversity.edu/en/persons/maciej-borowicz), and two PhD-students.
+REVEAL is carried out by the Principal Investigator, [Prof. Panos Delimatsis](https://research.tilburguniversity.edu/en/persons/panagiotis-delimatsis), Assistant Professors [Dr. Enrico Partiti](https://research.tilburguniversity.edu/en/persons/enrico-partiti), [Dr. Stéphanie Bijlmakers](https://research.tilburguniversity.edu/en/persons/stephanie-bijlmakers), and [Dr. Konrad Borowicz](https://research.tilburguniversity.edu/en/persons/maciej-borowicz), and two PhD-students.
