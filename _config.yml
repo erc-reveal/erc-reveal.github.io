@@ -14,29 +14,31 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Project Documentation
+title: The Resilience and Evolution of Economic Activism and the Role of Law (REVEAL)
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: The ‘Resilience and Evolution of Economic Activism and the Role of Law’ (REVEAL) research project investigates the origins and causes of the dominance of private rule-making bodies, focusing on their mutability and resilience. It does so by addressing the following research question: what enabling conditions, innate traits and mechanics allow for the transformation, adaptability and resilience of private rule-making bodies amid exogenous regulatory shocks and how does the law perpetuates this dominance?
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  About Me: "Project Description"
+  Team Members
+  Publications
+    - Articles in peer-reviewed journals
+    - Book Chapters (national and international)
+    - Book Reviews
+    - Other (working papers, manuscripts, etc.)
+  Contact: "project.reveal@tilburguniversity.edu"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/REVEAL-logo-Resize.jpg"
+# avatar: "/img/REVEAL-logo-Resize.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: /img/REVEAL-logo.jpg
 
 # --- Background colour/image options --- #
 
@@ -64,7 +66,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: TILEC
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
