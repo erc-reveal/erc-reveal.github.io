@@ -4,8 +4,6 @@ title: Project Description
 subtitle: About the project
 ---
 
-<div style="text-align: justify">
-
 The global financial crisis put basic tenets of neoliberalism into question. Previous crises on product safety also exemplified the limits of delegating regulatory power. However, in the medium run, private regulatory bodies re-assume their previous powerful status and continue to exert large, and seemingly unconstrained, influence on the functioning of economic activity.
 
 This research project investigates the origins and causes of the dominance of private rule-making bodies, focusing on their mutability and resilience. It does so by addressing the following research question: what enabling conditions, innate traits and mechanics allow for the transformation, adaptability and resilience of private rule-making bodies amid exogenous regulatory shocks and how does the law perpetuates this dominance?
@@ -21,5 +19,3 @@ This research is groundbreaking in three ways:
 In this respect, the project focuses on standardization in key areas of economic activity - financial services and goods & manufacturing.
 
 REVEAL is carried out by the Principal Investigator, [Prof. Panos Delimatsis](https://research.tilburguniversity.edu/en/persons/panagiotis-delimatsis), Assistant Professors [Dr. Enrico Partiti](https://research.tilburguniversity.edu/en/persons/enrico-partiti), [Dr. Stéphanie Bijlmakers](https://research.tilburguniversity.edu/en/persons/stephanie-bijlmakers), and [Dr. Konrad Borowicz](https://research.tilburguniversity.edu/en/persons/maciej-borowicz), and two PhD-students.
-
-</div>
