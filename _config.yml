@@ -23,10 +23,10 @@ description: YTD
 
 # List of links in the navigation bar
 navbar-links:
-  Project Description: ""
-  Team Members: ""
-  Publications: ""
-  Contact: "project.reveal@tilburguniversity.edu"
+  Project Description: "pdescription"
+  Team Members: "team"
+  Publications: "publications"
+  Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
