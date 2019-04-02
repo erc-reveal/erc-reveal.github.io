@@ -23,7 +23,7 @@ description: YTD
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Project Description"
+  Project Description: ""
   Team Members: ""
   Publications: ""
   Contact: "project.reveal@tilburguniversity.edu"
