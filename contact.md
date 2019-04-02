@@ -3,7 +3,6 @@ layout: page
 title: Contact
 subtitle: Get in touch
 ---
-
 REVEAL team: project.reveal (at) tilburguniversity (dot) edu
 
 Prof. P. (Panos) Delimatsis: p.delimatsis (at) tilburguniversity (dot) edu
