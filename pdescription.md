@@ -13,7 +13,9 @@ This project develops a multidisciplinary conceptual framework to analyse struct
 This research is groundbreaking in three ways:
 
 1. by delving into the peculiarities of private collective action, it sets the basis for a new theory of creation, evolution and resilience of such action;
+
 2. by integrating multiple disciplines, it innovates methodologically and offers a multidisciplinary and thus more comprehensive theory of private action in the service of future generations of researchers and policymakers;
+
 3. by collecting data and theorizing on a largely unexplored (from an empirical viewpoint) area such as transnational standard-setting, it revisits the promises, flaws and limits of technocratic rule, results in a more balanced understanding of transnational regulatory governance, and resolutely offers a regulatory theory for private regulatory bodies.
 
 In this respect, the project focuses on standardization in key areas of economic activity - financial services and goods & manufacturing.
