@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ### Past Participation
-- Ruhela, S. (2019, May). _The Resilience of Standard - Setting Bodies in Banking: The Case Study of Basel Committee on Banking Supervision_. 
+- Ruhela, S. (2019, May). _The Resilience of Standard - Setting Bodies in Banking: The Case Study of Basel Committee on Banking Supervision_. Presented at the 'Investment, Banking and Antitrust Session' at 8th SIEL PEPA Conference, King’s College London.
 
 REVEAL member, Shanya Ruhela (Ph.D. Researcher) presented her work-in-progress at the 8th Conference of the Postgraduate and Early Professionals/Academics Network of the Society of International Economic Law (PEPA/SIEL), held in London on May 30-31, 2019. Her presentation was on understanding the resilience of standard setting bodies in banking by undertaking a case study of the Basel Committee on Banking Supervision (the “Committee”).
 
