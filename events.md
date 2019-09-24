@@ -3,7 +3,7 @@ layout: page
 title: Events
 subtitle:
 ---
-### Upcoming Event:
+### Upcoming Event
 - A [workshop](https://www.erc-reveal.eu/workshop/) is scheduled to be held in November 2019. Watch this space for updates on these initaitives.
 
 ### Past Participation

@@ -4,13 +4,13 @@ title: The Resilience of Private Collective Action in Finance and Manufacturing 
 subtitle: 05 November 2019, 1330 - 1730 h, Tilburg University
 ---
 
-**Invited Speakers:**
+**Invited Speakers**
 + **Prof. Fabrizio Cafaggi**, European University Institute
 + **Prof. Linda Senden**, Utrecht University
 + **Prof. Harm Schepel**, University of Kent
 
 *This workshop is at invitation only.
 
-**Details on venue, and schedule**:_to be updated_
+**Details on venue, and schedule**-_to be updated_
 
-**Relevant Resources**:_to be updated_
+**Relevant Resources**-_to be updated_
