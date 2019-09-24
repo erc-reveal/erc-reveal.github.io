@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshop on Resilience of Private Collective Action
-subtitle: 05 November 2019, 1330 - 1730 h, Tilburg University
+subtitle: November 05, 2019, 1330 - 1730 h, Tilburg University
 ---
 Workshop on the **Resilience of Private Collective Action in Finance and Manufacturing - Theoretical Challenges**
 
@@ -13,4 +13,5 @@ Workshop on the **Resilience of Private Collective Action in Finance and Manufac
 *This workshop is by invitation only.
 
 Details on venue, and schedule: to be updated
+
 Relevant Resources: to be updated
