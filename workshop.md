@@ -12,6 +12,6 @@ subtitle: 05 November 2019, 1330 - 1730 h, Tilburg University
 
 *This workshop is at invitation only.
 
-**Details on venue, and schedule**-_to be updated_
+**Details on venue, and schedule** - _to be updated_
 
-**Relevant Resources**-_to be updated_
+**Relevant Resources** - _to be updated_
