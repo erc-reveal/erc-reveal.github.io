@@ -31,4 +31,5 @@ subtitle:
 
 - Verghese, Z.G. (2019, April). _Knowledge Transfer in the ICT Domain in the EU:ETSI’s role in being a Beacon_. Presentation at the 'Technical standardisation and STS' session at the [18th Annual STS Conference Graz 2019 - Critical Issues in Science, Technology and Society Studies, Graz University of Technology, Austria](https://sts-conference.isds.tugraz.at/event/2/).
 
-- Borowicz, K. and Delimatsis, P. (2019, March). Participants at _Symposium on Building the Financial System of the 21st Century: An Agenda for Europe and the United States_, The French Treasury, Paris, France.
+[//]: # (Borowicz, K. and Delimatsis, P. (2019, March). Participants at _Symposium on Building the) [//]: # (Financial System of the 21st Century: An Agenda for Europe and the United States_, The)
+[//]: # (French Treasury, Paris, France.)
