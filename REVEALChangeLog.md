@@ -2,4 +2,9 @@
 <img align="left" src="/img/Shanya-20190531-SIEL_RS_WB.jpg">
 
 20190919+
-Images Page? 
+Next: Images/ Gallery Page?
+
+20190924
+Next: Events+Workshop update
+Next: Fix Logo
+Next: Fix Mobile/ Half Screen Roll-in
