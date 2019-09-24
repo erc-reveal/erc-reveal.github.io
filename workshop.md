@@ -1,8 +1,9 @@
 ---
 layout: page
-title: The Resilience of Private Collective Action in Finance and Manufacturing - Theoretical Challenges
+title: Workshop on Resilience of Private Collective Action
 subtitle: 05 November 2019, 1330 - 1730 h, Tilburg University
 ---
+**The Resilience of Private Collective Action in Finance and Manufacturing - Theoretical Challenges**
 
 **Invited Speakers**
 + **Prof. Fabrizio Cafaggi**, European University Institute
