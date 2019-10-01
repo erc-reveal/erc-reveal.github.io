@@ -24,10 +24,4 @@ subtitle: Our research outputs
 
 **Partiti, E**. (2019). _Orchestration as a form of public action: The EU engagement with voluntary sustainability standards_. European Law Journal, 25(1), 94-117. [https://doi.org/10.1111/eulj.12299](https://doi.org/10.1111/eulj.12299)
 
-**Delimatsis, P.**. (2018, April). _Global Standard-Setting 2.0: How the WTO Spotlights ISO and Impacts the Transnational Standard-Setting Process_. 28 Duke Journal of Comparative and International Law (2018) ; Tilburg Law School Research Paper No. 2018-11. Available at SSRN: https://ssrn.com/abstract=3178133
-
-**Borowicz, M. K**. (2015, January). _Private Power and International Law: The International Swaps and Derivatives Association_. European Journal of Legal Studies, Vol. 8(1), 2015, pp. 46-66. Available at SSRN: https://ssrn.com/abstract=3283368
-
-**Borowicz, M. K**. (2013). _The Internal Ratings-Based and Advanced Measurement Approaches for Regulatory Capital Under the ‘Basel Regime’_. The Governance and Regulation of International Finance (eds. Geoffrey Miller and Fabrizio Cafaggi, Edward Elgar 2013). Available at SSRN: https://ssrn.com/abstract=3434955
-
-[//] Pending - Panos and Stephanie + Verification by FVEY. 
+[//] Pending - Panos and Stephanie + Verification by FVEY.
