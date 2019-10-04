@@ -8,6 +8,8 @@ subtitle: Our research outputs
 
 **Partiti, E**. (Accepted/In press). _Trust in global governance: Ensuring trustworthiness of transnational private regulators_. N.Y.U. Journal of International Law and Politics, 52(1). Previous version available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3406716).
 
+**Borowicz, M. K.** (2019). _Contracts as Regulation: the ISDA Master Agreement_. Paper presented at the [36th Annual Conference of the European Association of Law and Economics](https://eale.org/conference/eale-2019-tel-aviv/general-information).
+
 **Delimatsis, P.** (2019). _[Coherence and Divergence in Agreements on Trade in Services - A Drama in Three Acts](https://ssrn.com/abstract=3444205)_. TILEC Discussion Paper No. 2019-19.
 
 **Delimatsis, P.** (2019). _[At the service of market integration in the EU: From Sacchi to Uber](https://www.law.ox.ac.uk/business-law-blog/blog/2019/02/service-market-liberalization-eu-sacchi-uber)_. Yearbook of European Law, Vol. 37, pp. 188-250.
