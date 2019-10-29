@@ -10,7 +10,7 @@ subtitle: Our research outputs
 
 **Borowicz, M. K.** (2019). _Contracts as Regulation: the ISDA Master Agreement_. Paper presented at the [36th Annual Conference of the European Association of Law and Economics](https://eale.org/conference/eale-2019-tel-aviv/general-information).
 
-**Delimatsis, P.** (2019). _[International Trade Law and Technical Standardization](https://www.cambridge.org/core/books/cambridge-handbook-of-technical-standardization-law/international-trade-law-and-technical-standardization/C9D663788DF975859F70040BA672DEF3)_. In J. Contreras (Ed.), The Cambridge Handbook of Technical Standardization Law: Further Intersections of Public and Private Law (Cambridge Law Handbooks, pp. 7-27). Cambridge: Cambridge University Press. [doi:10.1017/9781316416785.002](doi:10.1017/9781316416785.002)
+**Delimatsis, P.** (2019). _[International Trade Law and Technical Standardization](https://www.cambridge.org/core/books/cambridge-handbook-of-technical-standardization-law/international-trade-law-and-technical-standardization/C9D663788DF975859F70040BA672DEF3)_. In J. Contreras (Ed.), The Cambridge Handbook of Technical Standardization Law: Further Intersections of Public and Private Law (Cambridge Law Handbooks, pp. 7-27). Cambridge: Cambridge University Press. doi:10.1017/9781316416785.002
 
 **Delimatsis, P.** (2019). _[When disruptive meets streamline: International standardization in blockchain](https://www.elgaronline.com/view/edcoll/9781788115124/9781788115124.00010.xml)_. In O. Hari, D. Kraus, & T. Obrist (Eds.), Blockchains, smart contracts, decentralised autonomous organisations and the law (pp. 83-100). Edward Elgar.
 
