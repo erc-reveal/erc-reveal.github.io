@@ -4,7 +4,7 @@ title: Events
 subtitle:
 ---
 ### Upcoming Event
-- A [workshop](https://www.erc-reveal.eu/workshop/) is scheduled to be held in November 2019. Watch this space for updates on such initiatives.
+- [Workshop](https://www.erc-reveal.eu/workshop/) on Resilience of Private Collective Action - to be held in November 05, 2019.
 
 ### Past Participation
 - Ruhela, S. (2019, May). _The Resilience of Standard - Setting Bodies in Banking: The Case Study of Basel Committee on Banking Supervision_. Presented at the ['Investment, Banking and Antitrust Session' at 8th SIEL PEPA Conference, King’s College London](https://www.kcl.ac.uk/events/8th-pepasiel-conference).
