@@ -10,11 +10,7 @@ subtitle: Our research outputs
 
 **Borowicz, M. K.** (2019). _Contracts as Regulation: the ISDA Master Agreement_. Paper presented at the [36th Annual Conference of the European Association of Law and Economics](https://eale.org/conference/eale-2019-tel-aviv/general-information).
 
-**Delimatsis, P.** (2019). _[Coherence and Divergence in Agreements on Trade in Services - A Drama in Three Acts](https://ssrn.com/abstract=3444205)_. TILEC Discussion Paper No. 2019-19.
-
-**Delimatsis, P.** (2019). _[At the service of market integration in the EU: From Sacchi to Uber](https://www.law.ox.ac.uk/business-law-blog/blog/2019/02/service-market-liberalization-eu-sacchi-uber)_. Yearbook of European Law, Vol. 37, pp. 188-250.
-
-**Delimatsis, P.**, & **Buzard, K.** (2019). _[Subsidies and investment promotion reaching new heights in the aviation sector: The US - tax incentives dispute](https://www.cambridge.org/core/journals/world-trade-review/article/subsidies-and-investment-promotion-reaching-new-heights-in-the-aviation-sector-the-ustax-incentives-dispute/8889228A6FD053C3499861A17A36313C)_. World Trade Review, 18(2), 327-351.
+**Delimatsis, P.** (2019). _[International Trade Law and Technical Standardization](https://www.cambridge.org/core/books/cambridge-handbook-of-technical-standardization-law/international-trade-law-and-technical-standardization/C9D663788DF975859F70040BA672DEF3)_. In J. Contreras (Ed.), The Cambridge Handbook of Technical Standardization Law: Further Intersections of Public and Private Law (Cambridge Law Handbooks, pp. 7-27). Cambridge: Cambridge University Press. [doi:10.1017/9781316416785.002](doi:10.1017/9781316416785.002)
 
 **Delimatsis, P.** (2019). _[When disruptive meets streamline: International standardization in blockchain](https://www.elgaronline.com/view/edcoll/9781788115124/9781788115124.00010.xml)_. In O. Hari, D. Kraus, & T. Obrist (Eds.), Blockchains, smart contracts, decentralised autonomous organisations and the law (pp. 83-100). Edward Elgar.
 
