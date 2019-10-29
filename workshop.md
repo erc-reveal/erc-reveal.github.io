@@ -11,4 +11,6 @@ Workshop on the **Resilience of Private Collective Action in Finance and Manufac
 + **Prof. Linda Senden**, Utrecht University
 + **Dr. Jens Prüfer**, Tilburg University
 
-*This workshop is by invitation only.
+*This one-day workshop is by invitation only.
+
+Organized by the Tilburg Law and Economics Center (TILEC) and supported by the European Research Council (ERC Consolidator Grant Agreement 725798 – REVEAL).
