@@ -5,7 +5,7 @@ subtitle: November 05, 2019, 1330 - 1730 h, Tilburg University
 ---
 Workshop on **The Resilience of Private Collective Action in Finance and Manufacturing - Theoretical Challenges.**
 
-**Invited Speakers**
+**Invited Commentators**
 + **Prof. Alessandra Arcuri**, Erasmus University Rotterdam
 + **Prof. Fabrizio Cafaggi**, European University Institute
 + **Prof. Linda Senden**, Utrecht University
