@@ -6,7 +6,7 @@ subtitle: About the project
 
 The global financial crisis put basic tenets of neoliberalism into question. Previous crises on product safety also exemplified the limits of delegating regulatory power. However, in the medium run, private regulatory bodies re-assume their previous powerful status and continue to exert large, and seemingly unconstrained, influence on the functioning of economic activity.
 
-This research project investigates the origins and causes of the dominance of private rule-making bodies, focusing on their mutability and resilience. It does so by addressing the following research question: what enabling conditions, innate traits and mechanics allow for the transformation, adaptability and resilience of private rule-making bodies amid exogenous regulatory shocks and how does the law perpetuates this dominance?
+This research project investigates the origins and causes of the dominance of private rule-making bodies, focusing on their mutability and resilience. It does so by addressing the following research question: what enabling conditions, innate traits and mechanics allow for the transformation, adaptability and resilience of private rule-making bodies amid exogenous regulatory shocks and how does the law perpetuate this dominance?
 
 This project develops a multidisciplinary conceptual framework to analyse structures, institutional design and adaptive/resilience strategies in 10 non-public regulatory bodies and their public law counterparts. Data are collected via qualitative methods (interviews with key individuals, direct observations, historical institutionalism, process tracing) to identify trajectories of change and causation spanning three decades.
 
