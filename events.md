@@ -8,11 +8,7 @@ subtitle:
 - [Workshop](https://www.erc-reveal.eu/workshop/) on 'Resilience of Private Collective Action in Finance and Manufacturing: Theoretical Challenges' - held on November 05, 2019.
 
 ### Past Participation
-- Ruhela, S. (2019, May). _The Resilience of Standard - Setting Bodies in Banking: The Case Study of Basel Committee on Banking Supervision_. Presented at the ['Investment, Banking and Antitrust Session' at 8th SIEL PEPA Conference, King’s College London](https://www.kcl.ac.uk/events/8th-pepasiel-conference).
-
-    REVEAL member, Shanya Ruhela (Ph.D. Researcher) presented her work-in-progress at the 8th Conference of the Postgraduate and Early Professionals/Academics Network of the Society of International Economic Law (PEPA/SIEL), held in London on May 30-31, 2019. Her presentation was on understanding the resilience of standard setting bodies in banking by undertaking a case study of the Basel Committee on Banking Supervision (the “Committee”).
-
-    The Committee is a self-enforcing institution, which promulgates minimum banking standards at an international level. These standards have no legal, binding or coercive force mandating compliance. Her work attempts to decipher the changes that occurred in standard-setting process of the Committee as a result of the Great Financial Crisis of 2008, which ultimately led to negotiation and adoption of a new set of standards (Basel III). Resilience is the capacity to experience shocks while retaining identity. The overarching aim of her research is to identify the key strategies for resilience of non-state actors or private standard-setting bodies by examining the evolution of standard-setting process by the Committee.
+- Partiti, E. (2019, November). _Elusive after all. How transnational private regulation escapes public influence’_. Paper presented at the panel on ['Examining private actors as regulatory authorities'](https://www.gov.tum.de/fileadmin/w00bzh/gov/Final_Poster_-_PhD_Workshop_TUM_Gov__28.11.2019_.pdf) at the [TUM School of Governance, Center for Doctoral and Postdoctoral Studies’ Emerging Scholars’ Workshop on Power Sharing or Power Shifts? Examining the role of public-private interactions in global governance](https://www.gov.tum.de/fakultaet/graduiertenzentrum/phd-workshop-2019/), TUM School of Governance, München/ Munich.
 
 - Bijlmakers, S. (2019, July). _Global Regulatory Governance of Goods and Standard setting Bodies: The Impact of Crisis Events_. Panel chaired at the [International Conference on Global Regulatory Governance, The Chinese University of Hong Kong](https://icgrg-cuhk-2019.com/), Hong Kong.
 
@@ -29,6 +25,12 @@ subtitle:
 - Verghese, Z.G. (2019, July). _Hearing above the din in the standards setting space in the ICT Domain the role of Standards Developing Organisations (SDOs)_. Presentation at the International Conference on Global Regulatory Governance, The Chinese University of Hong Kong, Hong Kong.
 
 - Borowicz, K. (2019, June). _Contracts as regulation: the ISDA Master Agreement_. Paper presented at the Contract Law panel at [National Business Law Scholars Conference, Berkeley School of Law](https://www.law.berkeley.edu/research/business/events/previous-events/nblsc2019/), University of California.
+
+- Ruhela, S. (2019, May). _The Resilience of Standard - Setting Bodies in Banking: The Case Study of Basel Committee on Banking Supervision_. Presented at the ['Investment, Banking and Antitrust Session' at 8th SIEL PEPA Conference, King’s College London](https://www.kcl.ac.uk/events/8th-pepasiel-conference).
+
+    REVEAL member, Shanya Ruhela (Ph.D. Researcher) presented her work-in-progress at the 8th Conference of the Postgraduate and Early Professionals/Academics Network of the Society of International Economic Law (PEPA/SIEL), held in London on May 30-31, 2019. Her presentation was on understanding the resilience of standard setting bodies in banking by undertaking a case study of the Basel Committee on Banking Supervision (the “Committee”).
+
+    The Committee is a self-enforcing institution, which promulgates minimum banking standards at an international level. These standards have no legal, binding or coercive force mandating compliance. Her work attempts to decipher the changes that occurred in standard-setting process of the Committee as a result of the Great Financial Crisis of 2008, which ultimately led to negotiation and adoption of a new set of standards (Basel III). Resilience is the capacity to experience shocks while retaining identity. The overarching aim of her research is to identify the key strategies for resilience of non-state actors or private standard-setting bodies by examining the evolution of standard-setting process by the Committee.
 
 - Verghese, Z.G. (2019, April). _Knowledge Transfer in the ICT Domain in the EU:ETSI’s role in being a Beacon_. Presentation at the 'Technical standardisation and STS' session at the [18th Annual STS Conference Graz 2019 - Critical Issues in Science, Technology and Society Studies, Graz University of Technology, Austria](https://sts-conference.isds.tugraz.at/event/2/).
 
