@@ -52,4 +52,4 @@ The travel costs incurred by the participants will be reimbursed. Up to two nigh
 + [Dr. Konrad Borowicz](https://research.tilburguniversity.edu/en/persons/maciej-borowicz)
 + [Dr. Enrico Partiti](https://research.tilburguniversity.edu/en/persons/enrico-partiti)
 
-* The Conference will be held digitally in case of restrictions to travel and meetings.
+*The Conference will be held digitally in case of restrictions to travel and meetings.
