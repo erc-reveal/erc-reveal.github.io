@@ -19,7 +19,7 @@ The organisers welcome the submission of papers that engage with the theme of th
 
 Draft papers of no more than 8.000 words or extended outlines of 3.000 words together with academic affiliation should be submitted at project.reveal@tilburguniversity.edu by **31 August 2020**. Submissions are invited from researchers at any career stage, and will be selected on the basis of originality and fit with the conference theme. Authors whose contributions are accepted will be invited to present their papers at the conference and to submit their full written paper (max 9.000 words) by **6 November 2020**. The best contributions will be selected for inclusion in an edited volume on the theme curated by the organizers.
 
-Questions relating to this call for papers can be addressed to Prof. Panos Delimatsis [p.delimatsis@tilburguniversity.edu](p.delimatsis@tilburguniversity.edu) and Dr. Enrico Partiti [E.D.Partiti@tilburguniversity.edu](E.D.Partiti@tilburguniversity.edu).
+Questions relating to this call for papers can be addressed to Prof. Panos Delimatsis (p.delimatsisATtilburguniversityDOTedu) and Dr. Enrico Partiti [E.D.PartitiATtilburguniversityDOTedu].
 
 ***Themes and topics***
 + Evolution in the form and content of standards (finance/manufacturing)
