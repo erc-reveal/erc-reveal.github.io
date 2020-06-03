@@ -3,6 +3,7 @@ layout: page
 title: International Conference on ‘The Evolution of Transnational Private Rule-Makers: Understanding Drivers and Dynamics’
 subtitle: December 03-04, 2020, 0900 - 1800 h, Tilburg University, Tilburg, The Netherlands
 ---
+
 International Conference organized by the Tilburg Law and Economics Center (TILEC) and supported by the European Research Council (*ERC Consolidator Grant Agreement 725798 – REVEAL*).
 
 [**Call for Papers**](https://www.tilburguniversity.edu/sites/default/files/download/ERC%20Conference%20CfP%200705.pdf)
@@ -25,7 +26,7 @@ Questions relating to this call for papers can be addressed to Prof. Panos Delim
 + Evolution in the form and content of standards (finance/manufacturing)
 + Theoretical approaches to evolving dynamics and resilience in private rule-making
 + External drivers and dynamics for the evolution of private standard-setters
-Emergence and/or internal change of private standard-setters in connection to regulatory crises and policy failures
++ Emergence and/or internal change of private standard-setters in connection to regulatory crises and policy failures
 + Role of industry and non-industry actors in the establishment of private standard-setters
 + Dynamics of cooperation and competition between private standard-setters and the role of policy change or external large-scale events
 + Monopolist standard-setters’ regulatory power and their influence on public authority
@@ -39,10 +40,10 @@ Emergence and/or internal change of private standard-setters in connection to re
 + Effects and distributional implications of evolution and resilience in private rule-making
 
 ***Timeline***
-+ Title and draft paper or extended abstract submission (3.000 words): 31 August 2020 at project.reveal@uvt.nl
-+ Notification of acceptance: 30 September 2020
-+ Full paper due: 6 November 2020
-+ Conference: 3-4 December 2020
++ Title and draft paper or extended abstract submission (3.000 words): **31 August 2020** at project.reveal@uvt.nl
++ Notification of acceptance: **30 September 2020**
++ Full paper due: **6 November 2020**
++ Conference: **3-4 December 2020**
 
 The travel costs incurred by the participants will be reimbursed. Up to two nights of accommodation in Tilburg can be covered.
 
