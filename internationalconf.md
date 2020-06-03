@@ -1,7 +1,9 @@
 ---
 layout: page
 title: International Conference
-subtitle: on The Evolution of Transnational Private Rule-Makers - Understanding Drivers and Dynamics, December 03-04, 2020, 0900 - 1800 h, Tilburg University, Tilburg, The Netherlands
+subtitle: on
+subtitle: The Evolution of Transnational Private Rule-Makers - Understanding Drivers and Dynamics
+subtitle: December 03-04, 2020, 0900 - 1800 h, Tilburg University, Tilburg, The Netherlands
 ---
 International Conference **organized by the Tilburg Law and Economics Center (TILEC) and supported by the European Research Council (*ERC Consolidator Grant Agreement 725798 – REVEAL*).**
 
