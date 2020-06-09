@@ -17,3 +17,5 @@ subtitle: Our research outputs
 **Partiti, E.** (2019). _[From the Board: International Trade and the Regulation of Responsible Global Value Chains](https://www.kluwerlawonline.com/abstract.php?area=Journals&id=LEIE2019001)_. Legal Issues of Economic Integration, 46(1), 1-6.
 
 **Partiti, E.** (2019). _[Orchestration as a form of public action: The EU engagement with voluntary sustainability standards](https://onlinelibrary.wiley.com/doi/full/10.1111/eulj.12299)_. European Law Journal, 25(1), 94-117.
+
+**Delimatsis, P.** (2018). _[Global standard-setting 2.0: How the WTO spotlights ISO and impacts the transnational standard-setting process](https://scholarship.law.duke.edu/djcil/vol28/iss2/3)_. Duke Journal of Comparative and International Law, 28(2), 273-326.
