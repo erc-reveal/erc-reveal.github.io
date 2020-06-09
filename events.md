@@ -12,8 +12,7 @@ subtitle:
 
 ### Past Participation
 
-- Delimatsis, P. (2020, February). _The Resilience of Voluntary Economic Activism – Lessons from the Great Recession_. Paper presented at the [2020 American Society of International Law International Economic Law Interest Group (2020 ASIL IEcLIG) Biennial Conference: _Designing International Economic Law: Challenges and Opportunities_](https://www.asil.org/sites/default/files/pdfs/IEcLIG_Biennial_2020.pdf), [The University of Miami School of Law](https://www.law.miami.edu/academics/continuing-legal-education-cle/conference-on-international-economic-law).
-
+- Delimatsis, P. (2020, February). _The Resilience of Voluntary Economic Activism – Lessons from the Great Recession_. Paper presented at the [2020 American Society of International Law - International Economic Law Interest Group (2020 ASIL IEcLIG) Biennial Conference: _Designing International Economic Law: Challenges and Opportunities_](https://www.asil.org/sites/default/files/pdfs/IEcLIG_Biennial_2020.pdf), [The University of Miami School of Law](https://www.law.miami.edu/academics/continuing-legal-education-cle/conference-on-international-economic-law).
 
 - Partiti, E. (2019, November). _'Elusive after all. How transnational private regulation escapes public influence’_. Paper presented at the panel on ['Examining private actors as regulatory authorities'](https://www.gov.tum.de/fileadmin/w00bzh/gov/Final_Poster_-_PhD_Workshop_TUM_Gov__28.11.2019_.pdf) at the [TUM School of Governance, Center for Doctoral and Postdoctoral Studies’ Emerging Scholars’ Workshop on Power Sharing or Power Shifts? Examining the role of public-private interactions in global governance](https://www.gov.tum.de/fakultaet/graduiertenzentrum/phd-workshop-2019/), TUM School of Governance, München/ Munich.
 
