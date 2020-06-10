@@ -4,7 +4,7 @@ title: Publications
 subtitle: Our research outputs
 ---
 
-**Partiti, E.**, & Fahey, E. (2020). Framing Convergence with the Global Legal Order: the EU and the World. [In _EU Convergence through global value chains regulation and private standards.](https://www.bloomsburyprofessional.com/uk/framing-convergence-with-the-global-legal-order-9781509934393/) Essay, Hart Publishing, 2020. Also available as [TILEC Discussion Paper No. DP 2019-025](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3499603).
+**Partiti, E.**, & Fahey, E. (2020). Framing Convergence with the Global Legal Order: the EU and the World. [In _EU Convergence through global value chains regulation and private standards_.](https://www.bloomsburyprofessional.com/uk/framing-convergence-with-the-global-legal-order-9781509934393/) Essay, Hart Publishing, 2020. Also available as [TILEC Discussion Paper No. DP 2019-025](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3499603).
 
 **Partiti, E.** (Accepted/In press). _Trust in global governance: Ensuring trustworthiness of transnational private regulators_. N.Y.U. Journal of International Law and Politics, 52(1). Previous version available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3406716).
 
