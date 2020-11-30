@@ -7,6 +7,14 @@ International Conference on **'The Evolution of Transnational Private Rule-Maker
 
 [**Draft Program**](https://www.tilburguniversity.edu/sites/default/files/download/Draft%20Programme%20-%20FINAL_0.pdf)
 
+**Time**
+03 December 2020 from 1315h-1745h (CET)
+04 December 2020 from 1300h-1730h (CET)
+This Workshop will take place via Zoom Webinar
+
+**Registration** : [**Link**](https://tilburguniversity.zoom.us/webinar/register/WN_vfpB2yZlT4CJQlq-4dcAVg)
+After registering, you will receive a confirmation email containing information about joining the meeting.
+
 In recent decades, transnational private regulators and standard-setters have emerged and multiplied in domains traditionally associated with private rules such as technical and financial standardisation, as well as in areas considered as the preserve of public authority such as sustainability and food safety. Transnational standard-setters have acquired unrivalled influence in the regulation of product and financial markets alike in light of their epistemic power as well as specific organisational features. Scholarship from disciplines other than law, in particular from IR, has highlighted considerable flexibility of transnational rule-makers if compared to public institutions both in fulfilling rule-making functions and adapting and transforming in light of events calling for change. However, empirical accounts zooming in on the flexibility, evolution and resilience of transnational private regulators remain scant in legal and regulatory scholarship.
 
 The goal of this conference is to explore how organisational forms, procedural rules, informal decision-making processes of private standard-setting organisations as well as outcomes of standard-setting have changed over time as a response to pressures and demands from within and outside these organisations. Private standard-setters have adapted not only to meet demands from both public authority at various regulatory levels and different stakeholder groups, but also to defuse internal opposition and to side-line specific interest groups with the gain of others. Specific events in their regulatory environment (be it a financial crisis such as the Asian contagion of late 90s and the recent Great Recession, a product safety crisis, a large-scale manufacturing glitch or a pandemic) have reinforced existing or created new incentives and rationales for private standard- setters to internalize the need for change, partly in order to maintain operations.
@@ -38,18 +46,8 @@ Questions relating to this call for papers can be addressed to Prof. Panos Delim
 + Empirical accounts of survival strategies or discontinuance in private standard-setters
 + Effects and distributional implications of evolution and resilience in private rule-making
 
-***Timeline***
-+ Title and draft paper or extended abstract submission (3.000 words): **31 August 2020** at project.reveal@uvt.nl
-+ Notification of acceptance: **30 September 2020**
-+ Full paper due: **6 November 2020**
-+ Conference: **3-4 December 2020**
-
-The travel costs incurred by the participants will be reimbursed. Up to two nights of accommodation in Tilburg can be covered.
-
 ***The organising committee***
 + [Prof. Panos Delimatsis](https://research.tilburguniversity.edu/en/persons/panagiotis-delimatsis)
 + [Dr. Stephanie Bijlmakers](https://research.tilburguniversity.edu/en/persons/stephanie-bijlmakers)
 + [Dr. Konrad Borowicz](https://research.tilburguniversity.edu/en/persons/maciej-borowicz)
 + [Dr. Enrico Partiti](https://research.tilburguniversity.edu/en/persons/enrico-partiti)
-
-*The Conference will be held digitally in case of restrictions to travel and meetings.
