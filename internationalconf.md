@@ -5,7 +5,7 @@ subtitle: December 03-04, 2020 at Tilburg University
 ---
 International Conference on **'The Evolution of Transnational Private Rule-Makers - Understanding Drivers and Dynamics' organized by the Tilburg Law and Economics Center (TILEC) and supported by the European Research Council (*ERC Consolidator Grant Agreement 725798 – REVEAL*).**
 
-[**Call for Papers**](https://www.tilburguniversity.edu/sites/default/files/download/ERC%20Conference%20CfP%200705.pdf)
+[**Draft Program**](https://www.tilburguniversity.edu/sites/default/files/download/Draft%20Programme%20-%20FINAL_0.pdf)
 
 In recent decades, transnational private regulators and standard-setters have emerged and multiplied in domains traditionally associated with private rules such as technical and financial standardisation, as well as in areas considered as the preserve of public authority such as sustainability and food safety. Transnational standard-setters have acquired unrivalled influence in the regulation of product and financial markets alike in light of their epistemic power as well as specific organisational features. Scholarship from disciplines other than law, in particular from IR, has highlighted considerable flexibility of transnational rule-makers if compared to public institutions both in fulfilling rule-making functions and adapting and transforming in light of events calling for change. However, empirical accounts zooming in on the flexibility, evolution and resilience of transnational private regulators remain scant in legal and regulatory scholarship.
 
