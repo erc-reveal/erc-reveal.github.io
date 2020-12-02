@@ -16,7 +16,7 @@ This Workshop will take place via Zoom Webinar
 
 After registering, you will receive a confirmation email containing information about joining the meeting.
 
-**Agenda**
+**Agenda**: [**PDF Version**](/filespdf/Programme.pdf)
 
 ![Agenda for Day 01](/img/Day01-1-1-1.jpg)
 
