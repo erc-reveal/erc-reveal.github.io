@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ### Upcoming Events
-- [International Conference](https://www.erc-reveal.eu/internationalconf/) on ‘The Evolution of Transnational Private Rule-Makers: Understanding Drivers and Dynamics’ - to be held on 03-04 December 2020 at Tilburg University. The Conference will be held digitally in case of restrictions to travel and meetings.
+- [International Conference](https://www.erc-reveal.eu/internationalconf/) on ‘The Evolution of Transnational Private Rule-Makers: Understanding Drivers and Dynamics’ - to be held on 03-04 December 2020 at Tilburg University. The Conference will be held digitally/ Zoom video webinar.
 
 ### Highlights/ Past Events
 - [Workshop](https://www.erc-reveal.eu/workshop/) on 'Resilience of Private Collective Action in Finance and Manufacturing: Theoretical Challenges' - held on November 05, 2019.
