@@ -8,13 +8,23 @@ International Conference on **'The Evolution of Transnational Private Rule-Maker
 [**Draft Program**](https://www.tilburguniversity.edu/sites/default/files/download/Draft%20Programme%20-%20FINAL_0.pdf)
 
 **Time**
-03 December 2020 from 1315h-1745h (CET)
-04 December 2020 from 1300h-1730h (CET)
+Day 01: 03 December 2020 from 1315h-1745h (CET)
+and
+Day 02: 04 December 2020 from 1300h-1730h (CET)
+
 This Workshop will take place via Zoom Webinar
 
 **Registration** : [**Link**](https://tilburguniversity.zoom.us/webinar/register/WN_vfpB2yZlT4CJQlq-4dcAVg)
+
 After registering, you will receive a confirmation email containing information about joining the meeting.
 
+**Agenda**
+
+![Agenda for Day 01](Day01-1-1-1.jpg)
+
+![Agenda for Day 02](Day01-2-2-2.jpg)
+
+**Program**
 In recent decades, transnational private regulators and standard-setters have emerged and multiplied in domains traditionally associated with private rules such as technical and financial standardisation, as well as in areas considered as the preserve of public authority such as sustainability and food safety. Transnational standard-setters have acquired unrivalled influence in the regulation of product and financial markets alike in light of their epistemic power as well as specific organisational features. Scholarship from disciplines other than law, in particular from IR, has highlighted considerable flexibility of transnational rule-makers if compared to public institutions both in fulfilling rule-making functions and adapting and transforming in light of events calling for change. However, empirical accounts zooming in on the flexibility, evolution and resilience of transnational private regulators remain scant in legal and regulatory scholarship.
 
 The goal of this conference is to explore how organisational forms, procedural rules, informal decision-making processes of private standard-setting organisations as well as outcomes of standard-setting have changed over time as a response to pressures and demands from within and outside these organisations. Private standard-setters have adapted not only to meet demands from both public authority at various regulatory levels and different stakeholder groups, but also to defuse internal opposition and to side-line specific interest groups with the gain of others. Specific events in their regulatory environment (be it a financial crisis such as the Asian contagion of late 90s and the recent Great Recession, a product safety crisis, a large-scale manufacturing glitch or a pandemic) have reinforced existing or created new incentives and rationales for private standard- setters to internalize the need for change, partly in order to maintain operations.
