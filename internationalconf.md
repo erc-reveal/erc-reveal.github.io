@@ -7,14 +7,10 @@ International Conference on **'The Evolution of Transnational Private Rule-Maker
 
 **Date and Time**: **03 December 2020** from 1315h-1745h (CET) and **04 December 2020** from 1300h-1730h (CET). This Workshop will take place via Zoom Webinar.
 
-**Registration** : [**Link**](https://tilburguniversity.zoom.us/webinar/register/WN_vfpB2yZlT4CJQlq-4dcAVg)
+**Registration**:[**Link**](https://tilburguniversity.zoom.us/webinar/register/WN_vfpB2yZlT4CJQlq-4dcAVg). After registering, you will receive a confirmation email containing information about joining the meeting.
 
-After registering, you will receive a confirmation email containing information about joining the meeting.
-
-**Agenda**: [**PDF version**](/filespdf/Programme.pdf)
-
+**Agenda**:[**PDF version**](/filespdf/Programme.pdf)
 ![Agenda for Day 01](/img/Day01-1-1-1.jpg)
-
 ![Agenda for Day 02](/img/Day01-2-2-2.jpg)
 
 **Program**
