@@ -7,7 +7,9 @@ International Conference on **'The Evolution of Transnational Private Rule-Maker
 
 **Time**
 Day 01: 03 December 2020 from 1315h-1745h (CET)
+
 and
+
 Day 02: 04 December 2020 from 1300h-1730h (CET)
 
 This Workshop will take place via Zoom Webinar
