@@ -4,6 +4,8 @@ title: Publications
 subtitle: Our research outputs
 ---
 
+**Partiti, E.** (2021). [_Polycentricity and Polyphony in International Law: Interpreting the Corporate Responsibility to Respect Human Rights_](https://doi.org/10.1017/S0020589320000469). The International and Comparative Law Quarterly, 70(1), 133-164.
+
 **Bijlmakers, S.** (2020). A Taxonomy of Drivers for Change: The Case of GlobalG.A.P. and the Forest Stewardship Council. Manuscript submitted for publication. In _A Taxonomy of Drivers for Change: The Case of GlobalG.A.P. and the Forest Stewardship Council_.
 
 **Bijlmakers, S.** (2020). No Iso-fix for Human Rights: A Critical Perspective on ISO 26000. Manuscript submitted for publication. In Axel Marx, Geert Van Calster, and Jan Wouters (eds.), _Research Handbook on Business and Human Rights_. Edward Elgar.
